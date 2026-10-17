@@ -129,4 +129,8 @@ All authenticated users can access all customer endpoints in the current impleme
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is created and maintained by **Siva Praneesh Velpula**.
+
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Siva Praneesh Velpula
